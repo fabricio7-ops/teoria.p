@@ -1,24 +1,29 @@
-# 📘 Proyecto de Programación
-## 💻 Portafolio Digital de Aprendizaje
+<div align="center">
+
+# 🎓 **UNIVERSIDAD NACIONAL DE LOJA**
 
 ---
 
-## 📌 Navegación del Portafolio
-- [Unidad 1 – Fundamentos de Programación](unidad1.md)
-- [Unidad 2 – Tema Principal](unidad2.md)
-- [Unidad 3 – Tema Principal](unidad3.md)
-- [Conclusiones Generales](conclusiones.md)
-- [Referencias Bibliográficas](referencias.md)
-- [Uso de la Inteligencia Artificial](ia.md)
+## 💻 **Portafolio Digital  Teoria de la programacion**
+
+### 👨‍🏫 **Docente:** Ing. Lissete Lopez 
+### 👨‍🎓 **Estudiante:** Lenin Macas
+### 🏫 **Ciclo:** 1°  
 
 ---
 
-## 🧾 Carátula
-> **Agregar aquí:**
-> - Lenin Fabricio Macas Cabrera
-> - Computacion - Semestre 1
-> - Ing. Lissete López
-> - Universidad Nacional De Loja
+## 🧩 **Contenido del Portafolio**
+
+| Unidad | Descripción |
+|:-------:|:-------------|
+| 📘 [Unidad 1](unidad1.md) | LÓGICA MATEMÁTICA.  |
+| ⚙️ **Unidad 2** | ... |
+| 🧠 **Unidad 3** |... |
+| 📚 **Bibliografía** | Fuentes de consulta utilizadas |
+
+---
+
+###  *“Donde hay un número, hay una historia que contar.”*
 
 ---
 
