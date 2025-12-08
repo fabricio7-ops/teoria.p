@@ -6,7 +6,11 @@
 
 ---
 
-## 📘 [AA 1](https://drive.google.com/drive/home) 
+## 📘 [AA 1](https://drive.google.com/file/d/1P4dojASaE1AKk3LK3LVjkDQjz5KzrVdZ/view?usp=sharing)  
+
+---
+
+## 📘 [AA 2](https://docs.google.com/document/d/1pduROBZY7_4wK5qAaY3Tma6rQDYETjKtJJsONJM9DWU/edit?tab=t.0)  
 
 <p align="center">
   <a href="https://github.com/fabricio7-ops/teoria.p/blob/main/index.md" style="text-decoration:none; ">
