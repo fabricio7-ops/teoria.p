@@ -60,7 +60,3 @@ Reflexión final del portafolio, aprendizajes más importantes, aplicaciones pr�
 
 ---
 
-## Referencias Bibliográficas
-
-## Uso de la Inteligencia Artificial
-### Aplicaciones de IA en el desarrollo del proyecto
