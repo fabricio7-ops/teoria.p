@@ -1,16 +1,14 @@
-## 🔧 Herramientas de Algoritmos
-[Teoria de la prgramación (2).pdf](https://github.com/user-attachments/files/23200372/Teoria.de.la.prgramacion.2.pdf)
+## 🔧 Herramientas de Algoritmos(https://docs.google.com/document/d/1eixCVQZh3eL83RG3ruytVPd_zg0yQNcDcb_ffQXl12E/edit?tab=t.0)
 
+---
 
-### 💾 Instalación de Lenguajes de Programación
-[Lenguaje de programación. (1).pdf](https://github.com/user-attachments/files/23200380/Lenguaje.de.programacion.1.pdf)
+### 💾 Instalación de Lenguajes de Programación(https://docs.google.com/document/d/1V5by8FO7TBjcDeGU-JBdBM8jfV__hSDyp8QOu8xLrQY/edit?tab=t.0)
 
+---
 
-### 🧠 Primer Acercamiento a la Construcción de Algoritmos Secuenciales
-[Codigo programacion u.1 (1).pdf](https://github.com/user-attachments/files/23200381/Codigo.programacion.u.1.1.pdf)
+### 🧠 Primer Acercamiento a la Construcción de Algoritmos Secuenciales(https://docs.google.com/document/d/151r04WL-_fVVzonsvWeXtC_HpYw8mLVoh5lF6wdGKVU/edit?tab=t.0)
 
+---
 
-### 🛠️ Del Diseño del Algoritmo al Programa
-
-[Teoría de la programación -Formato Reporte técnico APE (estudiante) (1).pdf](https://github.com/user-attachments/files/23200428/Teoria.de.la.programacion.-Formato.Reporte.tecnico.APE.estudiante.1.pdf)
+### 🛠️ Del Diseño del Algoritmo al Programa(https://docs.google.com/document/d/16v-EK8KNlF9t4Ri98EtV5hx3UW3xmfspRl8Fg3tGgn8/edit?tab=t.0)
 
