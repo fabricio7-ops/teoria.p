@@ -106,8 +106,9 @@ La matriz tiene 2 filas y 3 columnas, y se accede usando dos índices.
 
 Imagen 7
 
-<p align="center"><img width="827" height="474" src=![Código en C con matriz]("C:\Users\fabri\OneDrive\Pictures\Screenshots\Captura de pantalla 2026-01-29 102343.png") 
-/></p>
+<img width="827" height="474" alt="image" src="https://github.com/user-attachments/assets/ccbc0551-b902-442e-8e69-9c0997b24e8a" />
+
+</p>
 Resultado
 
 Imagen 8
