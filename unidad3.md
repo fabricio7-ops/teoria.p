@@ -86,6 +86,11 @@ https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit
 
 Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
 
+## 💭 Reflexión Personal
+
+La asignatura de Teoría de la Programación me permitió fortalecer mi forma de pensar de manera lógica y ordenada al momento de resolver problemas. Aprender conceptos como la programación modular, el uso de arreglos y el manejo de cadenas fue fundamental para comprender cómo se construyen programas claros y eficientes. Estos conocimientos representan una base importante para seguir avanzando en el mundo de la programación y enfrentar retos más complejos en el futuro.
+
+
 <p align="center">
   <a href="https://github.com/fabricio7-ops/teoria.p/blob/main/index.md" style="text-decoration:none; ">
     <span style="font-size: 28px;">📘 <strong>Volver</strong></span>
