@@ -86,3 +86,8 @@ https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit
 
 Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
 
+<p align="center">
+  <a href="https://github.com/fabricio7-ops/teoria.p/blob/main/index.md" style="text-decoration:none; ">
+    <span style="font-size: 28px;">📘 <strong>Volver</strong></span>
+  </a>
+</p> 
