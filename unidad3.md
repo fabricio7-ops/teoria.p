@@ -152,7 +152,21 @@ Durante esta unidad entendí la importancia de dividir los programas en módulos
 
 Aunque enfrenté dificultades conceptuales y errores de sintaxis, comprendí que la práctica constante y el apoyo en la documentación son fundamentales para mejorar. En general, esta unidad fortaleció mi razonamiento lógico y mi forma de estructurar soluciones en programación.
 
-<p align="center">📌 Conclusiones generales</p>
+ ## <p align="center"> ■ Tareas  </p>
+
+### ✔️ APE
+
+Construcción de funciones y procedimientos en un lenguaje de programación
+
+APE 1(https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit)
+
+### ✔️ AA
+
+Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
+
+
+
+<p align="center">📌 Conclusiones </p>
 
 La modularidad permite desarrollar programas más organizados, claros y reutilizables, facilitando su mantenimiento.
 El uso adecuado del paso por valor y por referencia es esencial para controlar la modificación de datos dentro de las funciones.
