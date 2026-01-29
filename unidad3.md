@@ -170,15 +170,14 @@ Las principales dificultades estuvieron en la abstracción de conceptos y en los
 
 Construcción de funciones y procedimientos en un lenguaje de programación
 
-https://drive.google.com/file/d/1fhPEfnX6eL7a3J2ivSFyFSv1Egk-HmxP/view?usp=sharing
-https://drive.google.com/file/d/1pzNAtK3d_yKmbscVAnc28CgWIi4alvCg/view?usp=sharing
-https://drive.google.com/file/d/1pzNAtK3d_yKmbscVAnc28CgWIi4alvCg/view?usp=sharing
+ APE 1(https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit)
+
 
 ### ✔️ AA
 
 Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
 
-https://drive.google.com/file/d/19YQ4yBFHu81xHLB9AwKhn7K1teVU0B8i/view?usp=sharing 
+
 
 ## <p align="center">📌 Conclusiones generales
 
