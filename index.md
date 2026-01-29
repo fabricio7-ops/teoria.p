@@ -18,7 +18,7 @@
 |:-------:|:-------------|
 | 📘 [Unidad 1](unidad1.md) | FUNDAMENTOS DE PROGRAMACION  |
 | ⚙️ [Unidad 2](unidad2.md)| ESTRUCTURAS ALGORITMICAS |
-| 🧠 **Unidad 3** |... |
+| 🧠 [Unidad 3](unidad3.md). | APLICACIONES PRACTICAS Y ALGORITMOS|
 | 📚 **Bibliografía** | Fuentes de consulta utilizadas |
 
 ---
