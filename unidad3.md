@@ -66,7 +66,8 @@ Las **cadenas de caracteres** son arreglos de tipo `char` que permiten almacenar
 - Finalizan con el carácter especial `'\0'`.
 - Se utilizan para manejar nombres, palabras y frases.
 - Se manipulan mediante funciones de la librería `<string.h>`.
-
+- 
+  <img width="1150" height="459" alt="image" src="https://github.com/user-attachments/assets/5334a4d6-5b2e-4b54-aeeb-1784d6835005" />
 
   ## 📝 Conclusión
 
