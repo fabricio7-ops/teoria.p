@@ -19,7 +19,7 @@
 | 📘 [Unidad 1](unidad1.md) | FUNDAMENTOS DE PROGRAMACION  |
 | ⚙️ [Unidad 2](unidad2.md)| ESTRUCTURAS ALGORITMICAS |
 | 🧠 [Unidad 3](unidad3.md). | APLICACIONES PRACTICAS Y ALGORITMOS|
-| 📚 **Bibliografía** | Fuentes de consulta utilizadas |
+| 📚 [Bibliografía](referencias.md). | Fuentes de consulta utilizadas |
 
 ---
 
@@ -35,22 +35,18 @@ El estudiante reconoce y aplica correctamente los elementos fundamentales de la 
 
 
 ## 🧠 Conclusiones Generales
-Reflexión final del portafolio, aprendizajes más importantes, aplicaciones prácticas y crecimiento académico alcanzado.
+
+La materia de **Teoría de la Programación** permitió desarrollar el pensamiento lógico y comprender los fundamentos necesarios para crear programas ordenados y eficientes. Los temas aprendidos sientan una base sólida para continuar con asignaturas más avanzadas en programación.
 
 ---
 
-## 📚 Referencias Bibliográficas
-> Ejemplos en formato APA o IEEE:
-
-
----
 
 ## 🤖 Uso de la Inteligencia Artificial
 
 ### Herramientas utilizadas
-- ChatGPT
-- Generadores de código y depuración automática
-- Herramientas de IA educativa
+
+Para el desarrollo de esta materia se utilizó inteligencia artificial (CHAT GPT) como herramienta de apoyo académico, principalmente para la comprensión de conceptos, elaboración de resúmenes y refuerzo del aprendizaje. El uso de esta tecnología se realizó de manera responsable y complementaria, sin reemplazar el esfuerzo personal ni el razonamiento propio del estudiante.
+
 
 ### Aplicaciones en el proyecto
 - Elaboración de algoritmos
