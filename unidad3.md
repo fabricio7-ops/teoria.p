@@ -33,6 +33,15 @@ Las **estructuras de datos estáticas** almacenan información en espacios de me
 - Se accede a cada elemento mediante un índice.
 - Muy útiles para listas de datos como notas o edades.
 
-Ejemplo:
-```c
-int notas[5];
+ ## <p align="center"> ■ Tareas entregadas </p>
+
+### ✔️ APE
+
+Construcción de funciones y procedimientos en un lenguaje de programación
+
+https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit 
+
+### ✔️ AA
+
+Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
+
