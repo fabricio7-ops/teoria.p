@@ -10,3 +10,8 @@
 
 [5] A. V. Aho, J. E. Hopcroft y J. D. Ullman, *Data Structures and Algorithms*, Boston, MA, USA: Addison-Wesley, 1983.
  
+<p align="center">
+  <a href="https://github.com/fabricio7-ops/teoria.p/blob/main/index.md" style="text-decoration:none; ">
+    <span style="font-size: 28px;">📘 <strong>Volver</strong></span>
+  </a>
+</p>
