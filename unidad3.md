@@ -1,195 +1,161 @@
-# <p align="center">📘 Portafolio – Modularidad y Arreglos: 
+<p align="center">📘 Portafolio – Modularidad y Uso de Arreglos</p>
+<p align="center">📌 1. Modularidad</p>
 
-### <p align="center">📌 1.  Modularidad 
-La modularidad es un principio de diseño en programación que consiste en dividir un programa en módulos o funciones independientes, cada uno con una responsabilidad específica.
+La modularidad es un enfoque de diseño en programación que consiste en separar un programa en partes más pequeñas llamadas módulos o funciones, donde cada una cumple una tarea específica dentro del sistema.
 
-###  ventajas 
+Ventajas
 
-🔹 Reutilización: Un módulo puede usarse en distintos programas.
+🔹 Reutilización: Un mismo módulo puede emplearse en diferentes programas sin necesidad de reescribirlo.
 
-🔹 Mantenimiento: Es más fácil localizar y corregir errores.
+🔹 Mantenimiento: Permite identificar y corregir errores de manera más rápida y sencilla.
 
-🔹 Claridad: El código se entiende mejor al estar organizado en bloques.
+🔹 Legibilidad: El código resulta más claro y comprensible al estar dividido en secciones.
 
-🔹 Trabajo en equipo: Diferentes programadores pueden trabajar en distintos módulos sin interferir.
+🔹 Trabajo colaborativo: Facilita que varios programadores desarrollen distintas partes del programa al mismo tiempo.
 
-## Por valor: 
+Paso por valor
 
-En este caso, la función recibe una copia del dato.
-Los cambios dentro de la función no afectan la variable original [1].
+En este método, la función recibe una copia del valor de la variable.
+Cualquier cambio realizado dentro de la función no modifica el valor original.
 
-## Ejemplo: 
+Ejemplo
 
-La función recibe una copia del número (x).
+La función recibe una copia del valor de la variable x.
 
-Dentro de la función, esa copia se modifica (x = 25).
+Dentro de la función, esa copia se altera (x = 25).
 
-Pero el original (numero = 5) no cambia, porque solo trabajamos con la copia.
+Sin embargo, el valor original (numero = 5) permanece igual, ya que solo se trabajó con una copia.
 
-Es como si prestaras una fotocopia de tu cuaderno: puedes rayar la copia, pero el cuaderno original sigue intacto. 
+Es similar a prestar una fotocopia de un cuaderno: puedes escribir sobre ella sin afectar el cuaderno original.
 
-imagen 1
+Imagen 1
 
-<p align="center"><img width="615" height="398" alt="image" src="https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" />
+<p align="center"><img width="615" height="398" src="https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" /></p>
+Resultado
 
-## Respuesta: 
+Imagen 2
 
-imagen 2
+<p align="center"><img width="443" height="81" src="https://github.com/user-attachments/assets/01f0752a-5bba-4244-9294-722fba3e7c4a" /></p>
+Paso por referencia
 
-<p align="center"><img width="443" height="81" alt="image" src="https://github.com/user-attachments/assets/01f0752a-5bba-4244-9294-722fba3e7c4a" />
+En este caso, la función recibe la dirección de memoria de la variable.
+Por lo tanto, cualquier modificación realizada sí afecta al valor original.
 
-## Por referencia: 
+Ejemplo
 
-Aquí la función recibe la dirección de memoria de la variable.
-Los cambios dentro de la función sí afectan la variable original [2].
+La función recibe la dirección de memoria de la variable (&numero).
 
-## Ejemplo: 
+Dentro de la función se accede directamente al valor original y se modifica (numero = 25).
 
-La función recibe la dirección de memoria del número (&numero).
+El cambio se refleja fuera de la función, ya que se trabaja directamente con la variable original.
 
-Dentro de la función, se accede al valor original y se modifica (numero = 25).
+Es como prestar el cuaderno original: cualquier marca hecha quedará registrada.
 
-Ahora el cambio sí afecta al original, porque trabajamos directamente sobre él.
+Imagen 3
 
-Es como si prestaras tu cuaderno original: si alguien lo raya, tu cuaderno queda rayado.
+<p align="center"><img width="771" height="408" src="https://github.com/user-attachments/assets/e0d3c495-6c38-4ba2-a4ea-a330f3d5a046" /></p>
+Resultado
 
-imagen 3
+Imagen 4
 
-<p align="center"><img width="771" height="408" alt="image" src="https://github.com/user-attachments/assets/e0d3c495-6c38-4ba2-a4ea-a330f3d5a046" />
+<p align="center"><img width="812" height="128" src="https://github.com/user-attachments/assets/40af1dd8-0ba7-47a6-9500-22c285c36763" /></p>
+<p align="center">📌 Arreglos</p>
 
-## Respuesta: 
+Un arreglo es una estructura de datos que permite almacenar múltiples valores del mismo tipo en ubicaciones contiguas de memoria.
 
-imagen 4
+Características
 
-<p align="center"><img width="812" height="128" alt="image" src="https://github.com/user-attachments/assets/40af1dd8-0ba7-47a6-9500-22c285c36763" />
+🔹 Todos los elementos almacenados son del mismo tipo de dato.
 
-### <p align="center">📌 Arreglos: 
+🔹 Cada elemento se identifica mediante un índice o posición.
 
-Un arreglo es una estructura de datos que permite almacenar varios elementos del mismo tipo en posiciones consecutivas de memoria [3].
+🔹 En la mayoría de lenguajes, los índices comienzan desde 0.
 
-## caracteristicas: 
+Ventajas
 
-🔹 Todos los elementos son del mismo tipo (ej. enteros, caracteres).
+🔹 Facilitan la organización de datos similares.
 
-🔹Se accede a cada elemento mediante un índice (posición).
+🔹 Permiten acceder rápidamente a cualquier elemento.
 
-🔹El índice comienza en 0 en la mayoría de lenguajes (como C, Java, Python).
+🔹 Son ideales para trabajar con ciclos repetitivos como for o while.
 
-## ventajas: 
+<p align="center">Tipos de Arreglos</p>
+1. Arreglo unidimensional
 
-🔹Organización de datos homogéneos.
+Consiste en una lista simple de elementos dispuestos en una sola dimensión.
 
-🔹Acceso rápido a cualquier elemento.
+Ejemplo
 
-🔹Útiles para recorrer datos con ciclos (for, while).
+El arreglo numeros contiene cinco valores enteros y cada uno se accede mediante un índice.
 
-## <p align="center">TIPOS DE ARREGLOS</p>
+Imagen 5
 
-## 1. Arreglo Unidimensional: 
+<p align="center"><img width="733" height="343" src="https://github.com/user-attachments/assets/2d7639bf-0013-4a50-a995-d537e6e0dd70" /></p>
+Resultado
 
-Es una sola lista de elementos en línea.
+Imagen 6
 
-## Ejemplo: 
+<p align="center"><img width="761" height="255" src="https://github.com/user-attachments/assets/8715174e-0461-4a78-ab31-e8e7ace5db01" /></p>
+2. Arreglo bidimensional (matriz)
 
-Aquí numeros es una lista de 5 enteros. Cada posición se accede con un índice (numeros[0] = 10, numeros[1] = 20, etc.).
+Se representa como una tabla formada por filas y columnas.
 
-imagen 5 
+Ejemplo
 
-<p align="center"><img width="733" height="343" alt="image" src="https://github.com/user-attachments/assets/2d7639bf-0013-4a50-a995-d537e6e0dd70" />
+La matriz tiene 2 filas y 3 columnas, y se accede usando dos índices.
 
-## Respuesta: 
+Imagen 7
 
-imagen 6 
+<p align="center"><img width="827" height="474" src="https://github.com/user-attachments/assets/029312fc-c7d7-4d93-829a-809a5710fa03" /></p>
+Resultado
 
-<p align="center"><img width="761" height="255" alt="image" src="https://github.com/user-attachments/assets/8715174e-0461-4a78-ab31-e8e7ace5db01" />
+Imagen 8
 
-## 2. Arreglo Bidimensional (matriz)
+<p align="center"><img width="828" height="177" src="https://github.com/user-attachments/assets/86795f88-3e4e-4032-a050-3a63bae7232c" /></p>
+3. Arreglo multidimensional
 
-Es una tabla con filas y columnas.
+Son arreglos con más de dos dimensiones, utilizados para representar estructuras de datos más complejas.
 
-## Ejemplo: 
+Ejemplo
 
-Aquí matriz tiene 2 filas y 3 columnas. Se accede con dos índices: matriz[0][0] = 1, matriz[1][2] = 6.
+El arreglo cubo es tridimensional y se accede mediante tres índices.
 
-imagen 7 
+Imagen 9
 
-<p align="center"><img width="827" height="474" alt="image" src="https://github.com/user-attachments/assets/029312fc-c7d7-4d93-829a-809a5710fa03" />
+<p align="center"><img width="837" height="439" src="https://github.com/user-attachments/assets/d18384f5-270a-4cd3-9939-bdcc62399b84" /></p>
+Resultado
 
-## Respuesta: 
+Imagen 10
 
-imagen 8 
+<p align="center"><img width="795" height="275" src="https://github.com/user-attachments/assets/852c69d6-d2c4-4447-a0f4-b65eb132abc2" /></p>
+<p align="center">Principales dificultades en la aplicación de los contenidos</p>
 
-<p align="center"><img width="828" height="177" alt="image" src="https://github.com/user-attachments/assets/86795f88-3e4e-4032-a050-3a63bae7232c" />
+Comprender la abstracción de la modularidad y el uso de funciones.
 
-## 3. Arreglo Multidimensional (más de 2 dimensiones)
+Distinguir correctamente entre paso por valor y paso por referencia.
 
-Se usan para representar datos más complejos, como cubos o tablas de más niveles [4]. 
+Visualizar cómo se almacenan los arreglos en memoria.
 
-## Ejemplo: 
+Olvidar inicializar variables o arreglos.
 
-Aquí cubo es un arreglo de 3 dimensiones (como un cubo de datos). Se accede con tres índices: cubo[1][1][0] = 7.
+Errores al acceder a índices fuera del rango permitido.
 
-imagen 9
+Uso incorrecto de punteros.
 
-<p align="center"><img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/d18384f5-270a-4cd3-9939-bdcc62399b84" />
+Dificultad para dividir problemas grandes en módulos pequeños.
 
-## Respuesta: 
+Elegir incorrectamente qué datos pasar por valor o por referencia.
 
-imagen 10
+<p align="center">Reflexión crítica sobre los aprendizajes</p>
 
-<p align="center"><img width="795" height="275" alt="image" src="https://github.com/user-attachments/assets/852c69d6-d2c4-4447-a0f4-b65eb132abc2" />
+Durante esta unidad entendí la importancia de dividir los programas en módulos para lograr un código más ordenado y fácil de mantener. Aprendí a diferenciar claramente entre el paso de parámetros por valor y por referencia, comprendiendo su impacto en la modificación de datos. Asimismo, reforcé el uso de arreglos, desde los más simples hasta los multidimensionales, reconociendo que estos últimos requieren mayor práctica.
 
-## <p align="center">Principales dificultades en la aplicación 
-de los contenidos. </p>
+Aunque enfrenté dificultades conceptuales y errores de sintaxis, comprendí que la práctica constante y el apoyo en la documentación son fundamentales para mejorar. En general, esta unidad fortaleció mi razonamiento lógico y mi forma de estructurar soluciones en programación.
 
-- Dificultad para entender la abstracción detrás de modularidad y funciones.
+<p align="center">📌 Conclusiones generales</p>
 
-- Confusión entre paso por valor y paso por referencia.
-
-- Problemas para visualizar cómo los arreglos se almacenan en memoria.
-
-- Olvidar inicializar variables o arreglos antes de usarlos.
-
-- Errores en índices de arreglos (ej. acceder fuera de rango).
-
-- Uso incorrecto de punteros al trabajar con referencias.
-
-- Dificultad para dividir un problema grande en módulos pequeños.
-
-- Problemas al elegir qué datos deben pasarse por valor y cuáles por referencia.
-
-  ## <p align="center"> Reflexión crítica de los aprendizajes de la unidad </p>
-
-  En esta unidad comprendí la importancia de la modularidad para organizar programas y facilitar su mantenimiento. Aprendí a diferenciar el paso por valor y el paso por referencia, entendiendo cómo influyen en la modificación de datos. También reforcé el uso de arreglos, desde listas simples hasta estructuras más complejas, aunque reconocí que los multidimensionales requieren mayor práctica.
-
-Las principales dificultades estuvieron en la abstracción de conceptos y en los errores de sintaxis, pero descubrí que la práctica constante y la documentación clara son claves para superarlas. En conclusión, esta unidad me ayudó a fortalecer mi pensamiento lógico y a valorar la importancia de escribir código modular y eficiente.
-
-  ## <p align="center"> ■ Tareas entregadas </p>
-
-### ✔️ APE
-
-Construcción de funciones y procedimientos en un lenguaje de programación
-
- APE 1(https://docs.google.com/document/d/1C3Q6_FOu39zW4IpaChXCWc8oAnL87Hxh/edit)
-
-
-### ✔️ AA
-
-Curso virtual de Cisco Networking Academy (Nov 05, 2025 - Jan 05, 2026) 
-
-
-
-## <p align="center">📌 Conclusiones generales
-
-
-La modularidad es fundamental para organizar programas en funciones independientes, lo que facilita la comprensión, el mantenimiento y la reutilización del código.
-
-El paso de parámetros por valor y por referencia permite controlar cómo se transmiten y modifican los datos dentro de las funciones, siendo clave para diseñar soluciones eficientes.
-
-Los arreglos son estructuras esenciales para manejar grandes volúmenes de datos homogéneos; su uso correcto requiere práctica, especialmente en el caso de los multidimensionales.
-
-Las principales dificultades se relacionan con la abstracción de conceptos, errores de sintaxis y la organización del código, pero se superan con práctica constante, documentación clara y ejemplos progresivos.
-
-En conjunto, los contenidos de la unidad fortalecen el pensamiento lógico y estructurado, preparando al estudiante para enfrentar problemas más complejos en programación.
-
+La modularidad permite desarrollar programas más organizados, claros y reutilizables, facilitando su mantenimiento.
+El uso adecuado del paso por valor y por referencia es esencial para controlar la modificación de datos dentro de las funciones.
+Los arreglos son estructuras clave para manejar grandes cantidades de información, aunque su correcta implementación requiere práctica.
+En conjunto, estos contenidos contribuyen al desarrollo de un pensamiento lógico y estructurado, fundamental para resolver problemas más avanzados en programación. 
 
