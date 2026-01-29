@@ -1,4 +1,4 @@
-<p align="center">📘 Portafolio – Modularidad y Uso de Arreglos</p>
+<p align="center">📘  Modularidad y Uso de Arreglos</p>
 <p align="center">📌 1. Modularidad</p>
 
 La modularidad es un enfoque de diseño en programación que consiste en separar un programa en partes más pequeñas llamadas módulos o funciones, donde cada una cumple una tarea específica dentro del sistema.
@@ -30,7 +30,7 @@ Es similar a prestar una fotocopia de un cuaderno: puedes escribir sobre ella si
 
 Imagen 1
 
-<p align="center"><img width="615" height="398" src="https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" /></p>
+<p align="center"><img width="615" height="398" src= "https://github.com/user-attachments/assets/b2190255-b261-464c-a27b-e389210585a1" /></p>
 Resultado
 
 Imagen 2
@@ -106,7 +106,8 @@ La matriz tiene 2 filas y 3 columnas, y se accede usando dos índices.
 
 Imagen 7
 
-<p align="center"><img width="827" height="474" src="https://github.com/user-attachments/assets/029312fc-c7d7-4d93-829a-809a5710fa03" /></p>
+<p align="center"><img width="827" height="474" src=![Código en C con matriz]("C:\Users\fabri\OneDrive\Pictures\Screenshots\Captura de pantalla 2026-01-29 102343.png") 
+/></p>
 Resultado
 
 Imagen 8
