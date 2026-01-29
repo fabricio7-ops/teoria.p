@@ -33,6 +33,46 @@ Las **estructuras de datos estáticas** almacenan información en espacios de me
 - Se accede a cada elemento mediante un índice.
 - Muy útiles para listas de datos como notas o edades.
 
+  <img width="1403" height="491" alt="image" src="https://github.com/user-attachments/assets/f500a9ae-6350-43b4-affb-86e2010a11e4" />
+
+
+## ⬛ Arreglos Bidimensionales (Matrices)
+
+Los **arreglos bidimensionales** organizan los datos en forma de filas y columnas, similares a una tabla.
+
+### Características
+- Se accede a los datos utilizando dos índices.
+- Requieren bucles anidados para recorrerlos.
+- Facilitan la representación de datos tabulares.
+
+  <img width="1310" height="1175" alt="image" src="https://github.com/user-attachments/assets/2dff7de5-ca7e-4e4f-bbd1-2252f74d17c9" />
+
+  ## 📦 Arreglos Multidimensionales
+
+Los **arreglos multidimensionales** son extensiones de los arreglos bidimensionales y permiten manejar información en más de dos dimensiones.
+
+### Características
+- Utilizan tres o más índices.
+- Permiten trabajar con estructuras de datos más complejas.
+- Su tamaño se define de forma estática.
+
+<img width="1261" height="1113" alt="image" src="https://github.com/user-attachments/assets/da191eb0-14f1-4746-ae24-d70f7cbbdea0" />
+
+  ## 🔤 Cadenas de Caracteres (Strings)
+
+Las **cadenas de caracteres** son arreglos de tipo `char` que permiten almacenar texto.
+
+### Características
+- Finalizan con el carácter especial `'\0'`.
+- Se utilizan para manejar nombres, palabras y frases.
+- Se manipulan mediante funciones de la librería `<string.h>`.
+
+
+  ## 📝 Conclusión
+
+La **programación modular**, junto con el uso adecuado de **arreglos y cadenas**, permite desarrollar programas más ordenados, eficientes y fáciles de entender. Estos conceptos son fundamentales para resolver problemas computacionales de forma estructurada y representan una base sólida para avanzar en el aprendizaje de la programación en **C**.
+
+
  ## <p align="center"> ■ Tareas entregadas </p>
 
 ### ✔️ APE
